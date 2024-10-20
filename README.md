@@ -24,8 +24,8 @@ The dataset used was derived from two separate datasets, representing different 
 To understand the data and identify potential relationships between variables, we conducted exploratory data analysis (EDA). This involved visualizing the data through various plots, such as bar graph, boxplot and pie chart. Post exploring the data, several classification models were explored including Random Forest, LightGBM, and XGBoost. Hyperparameter tuning was conducted using Random Search Cross-Validation to identify optimal configurations for each model.
 
 #### Dataset Source
-Intakes - https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm/about_data
-Outcomes - https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238/about_data
+Intakes: https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm/about_data </br>
+Outcomes: https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238/about_data
 </br></br>
 
 ## Model Development and Evaluation
@@ -38,7 +38,7 @@ The **stacking ensemble** achieved **80% accuracy**, showcasing the potential be
 </br>
 
 ## Practical Applications
-A few real world cases where this model can be deployed are:</br>
+A few real situations where this model can be deployed are:</br>
 
 1. **Shelter Management:** The model can assist shelter staff in making informed decisions about resource allocation, such as prioritizing medical care or behavioral training for animals with higher risk of negative outcomes.
 2. **Policy Development:** The model's insights can inform the development of shelter policies and practices aimed at improving animal welfare and reducing negative outcomes.
